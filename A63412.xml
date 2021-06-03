@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>True and joyful news, or, A Word of comfort to the godly party a poem upon Mr. H--s's late deliverance.</title>
+         </titleStmt>
+         <extent>Approx. 4KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A63412</idno><idno type="EEBO-CITATION">13550988</idno>
+  <idno type="VID">100185</idno>
+  <idno type="EEBO-PROQUEST">2240932733</idno>
+  
+            <idno type="STC">Wing T2507</idno>
+            <idno type="STC">ESTC R33700</idno>
+            <idno type="OCLC">13550988</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A63412)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 100185)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1558:33)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>True and joyful news, or, A Word of comfort to the godly party a poem upon Mr. H--s's late deliverance.</title>
+               </titleStmt>
+               <extent>1 sheet, (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by G. Croom ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1684.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  Politics and government --  1660-1688 --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:100185:1"/>
+            <head>
+               <hi>True and Ioyful News:</hi> OR A Word of Comfort TO THE GODLY PARTY: A POEM UPON <hi>Mr. H—s's late Deliverance,</hi>
+            </head>
+            <lg>
+               <l>VVHat <hi>H-s</hi> Acquitted, <hi>Armstrong</hi>'s Magazine!</l>
+               <l>
+                  <hi>Tory</hi> turn'd <hi>Ignoramus,</hi> without Spleen?</l>
+               <l>
+                  <hi>The Old Causes</hi> grand <hi>Goliah</hi>'s Pim- is come,</l>
+               <l>Has slipt the noose, bilkt <hi>Ketch,</hi> escap'd his doom,</l>
+               <l>The Cities Hopes, the Charters chief Upholder,</l>
+               <l>Dissenters joy, the Scriptures best unfolder,</l>
+               <l>Is safe arrived; proclaim a Solemn Day,</l>
+               <l>Let's Halelujahs to his Praises pay:</l>
+               <l>For he's the Hero of our State-Plot-Play.</l>
+               <l>The <hi>Confin'd Saviour</hi> of the Nation's gone,</l>
+               <l>His Crystal Plot and mighty Train's undone;</l>
+               <l>Succeeding <hi>H-s</hi> shall be his Adopted Son.</l>
+               <l>Can <hi>Salamanca</hi>'s brood ere want a Boy,</l>
+               <l>Whilst <hi>H-s</hi>'s the <hi>Acteoniz'd</hi> Phanaticks joy!</l>
+               <l>Who brings an Ordered <hi>Babel</hi> on his Tongue,</l>
+               <l>Tuning Sedition to the good old Song</l>
+               <l>Of <hi>All Health to Old Noll,</hi> in each Cabal,</l>
+               <l>Whose empty words the Vulgar Gospel call.</l>
+               <l>The <note n="*" place="margin">H-ys.</note>
+                  <hi>Dove</hi> (precise dissenters say) 's return'd,</l>
+               <l>(For whom through fear the City Faction mourn'd)</l>
+               <pb n="2" facs="tcp:100185:2"/>
+               <l> With <hi>Olive Branches,</hi> since the Floods decrease,</l>
+               <l>And fatal Tidings of the <note n="*" place="margin">D. O.</note> Ravens Case;</l>
+               <l>Who boldly wing'd ore th' surface of the Deep,</l>
+               <l>Till boisterous Billows did imprison'd keep,</l>
+               <l>The wandring Messenger of the active side,</l>
+               <l>Whose vast Phanatick Ark does doubtful glide,</l>
+               <l>Longing for th' 'batement of a blest State Tyde.</l>
+               <l>Big with Ill-hopes, ill-meaning Zealots Crew;</l>
+               <l>Whom no Religion pleases but a <hi>New,</hi>
+               </l>
+               <l>Can bless, speak fair, with the same breath undo.</l>
+               <l>
+                  <note n="*" place="margin">D. <hi>T.</hi>
+                  </note>
+                  <hi>Geneva's Trojan</hi> Horse ador'd by some,</l>
+               <l>Fill'd with arm'd men, Traytors suppos'd from <hi>Rome,</hi>
+               </l>
+               <l>Whose out-swell'd <hi>Salamanca</hi> sides contain,</l>
+               <l>The numerous Ofspring of <note n="*" place="margin">London.</note>
+                  <hi>Augusta</hi>'s Train,</l>
+               <l>
+                  <hi>Whitehall</hi> made room for this outlandish Beast,</l>
+               <l>Each did admire, and for his favour prest,</l>
+               <l>Till sable Clouds of unexpected Grief</l>
+               <l>Ore vail'd the Srate, not thinking of relief.</l>
+               <l>The mighty Monsters Bowels yearn'd agen,</l>
+               <l>And then brought forth a wondrous Plot, not men;</l>
+               <l>Which <hi>(Hydra</hi> like) when spoyl'd, another rose,</l>
+               <l>Debauch'd the Land and its Par'nts heads expose,</l>
+               <l>Whose <hi>(Jove-</hi>like) brain a fruitful womb supply'd</l>
+               <l>Gave birth to <hi>H-s</hi> and great <note n="*" place="margin">Armstrong</note>
+                  <hi>Tom</hi>'s princely Pride.</l>
+               <l>When <hi>H—s</hi> their Bully-Cock, the Parties Head,</l>
+               <l>And <hi>Otes</hi> the Devils <hi>Mercury</hi> are dead,</l>
+               <l>They Self-thought-Saints a Dissolution dread.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London, <hi>Printed by G.</hi> Croom <hi>at the</hi> Blew Ball <hi>in</hi> Thames-Street, 1684.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
